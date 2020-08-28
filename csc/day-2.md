@@ -1,3 +1,4 @@
+```txt
 Day: 2
 Problem: 2
 Difficulty: Easy
@@ -21,3 +22,4 @@ Output: [1,2]
 Explanation: On the first query only f("bbb") < f("aaaa"). On the second query both f("aaa") and f("aaaa") are both > f("cc").
 
 Total Problems till now: 2
+```

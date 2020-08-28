@@ -1,3 +1,4 @@
+```txt
 Day: 1
 Problem: 1
 Difficulty: Easy
@@ -23,3 +24,4 @@ Input: arr = [-3,0,1,-3,1,1,1,-3,10,0]
 Output: true
 
 Share Your solution with  https://ideone.com/
+```
